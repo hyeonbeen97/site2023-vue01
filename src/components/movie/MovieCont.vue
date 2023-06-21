@@ -75,6 +75,9 @@ export default {
   }
 }
 .movie__slider {
+  display: block;
+  width: 100%;
+  height: 1000px;
 }
 .movie__search {
   text-align: center;
